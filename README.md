@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-pip install -r requirements.txt
-python manage.py runserver # 서버 실행
-
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={gmlrnjs0})](https://solved.ac/{gmlrnjs0})
 
 <!--
